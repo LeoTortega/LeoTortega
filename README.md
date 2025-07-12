@@ -8,14 +8,14 @@
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:leonardo.tortega@outlook.com)
     
 ### Um pouco sobre mim... 
-Atualmente estou cursando **Ciência Da Computação🎓** e trabalho na **IBM🐝** como Engenheiro de Dados para um cliente do setor bancário. Desde pequeno sempre fui fascinado por técnologia e tornar isso minha profissão me faz sentir completamente realizado. Amo aprender coisas novas tornando assim os estudos muito satisfatórios e aqui no GitHub você consegue acompanhar um pouco dos meus aprendizados.
+Atualmente estou cursando **Ciência Da Computação🎓** e trabalho no **Banco Pan** como Engenheiro de Dados. Desde pequeno sempre fui fascinado por técnologia e tornar isso minha profissão me faz sentir completamente realizado. Amo aprender coisas novas tornando assim os estudos muito satisfatórios e aqui no GitHub você consegue acompanhar um pouco dos meus aprendizados.
 
 ## ⚡️ Alguns fatos rápidos sobre mim
 
 - ☕Iniciei no mundo da programação com Java.
 - 🎲Fiz um reeskilling de desenvolvedor backend Java para Engenharia de Dados.
 - 🤖 Busco me especializar na área de Inteligência Artificial.
-- ☁️ Sou certificado em AWS Cloud Practitioner.
+- ☁️ Sou certificado em AWS Cloud Practitioner e AWS Associate Data Engineer.
 - Fun facts:
     * 🎵 Além de técnologia amo música.
     * <img src="https://media.giphy.com/media/xT9DPFoyjP9IqoqAPC/giphy.gif" width="20"> Minha banda favorita são os Beatles.
